@@ -1,0 +1,15 @@
+C:\C#Lessons\lecture_05\seminar_09-1\bin\Debug\net6.0\seminar_09-1.exe
+C:\C#Lessons\lecture_05\seminar_09-1\bin\Debug\net6.0\seminar_09-1.deps.json
+C:\C#Lessons\lecture_05\seminar_09-1\bin\Debug\net6.0\seminar_09-1.runtimeconfig.json
+C:\C#Lessons\lecture_05\seminar_09-1\bin\Debug\net6.0\seminar_09-1.dll
+C:\C#Lessons\lecture_05\seminar_09-1\bin\Debug\net6.0\seminar_09-1.pdb
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\seminar_09-1.csproj.AssemblyReference.cache
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\seminar_09-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\seminar_09-1.AssemblyInfoInputs.cache
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\seminar_09-1.AssemblyInfo.cs
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\seminar_09-1.csproj.CoreCompileInputs.cache
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\seminar_09-1.dll
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\refint\seminar_09-1.dll
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\seminar_09-1.pdb
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\seminar_09-1.genruntimeconfig.cache
+C:\C#Lessons\lecture_05\seminar_09-1\obj\Debug\net6.0\ref\seminar_09-1.dll
